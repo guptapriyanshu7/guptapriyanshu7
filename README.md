@@ -66,5 +66,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guptapriyanshu7&show_icons=true&locale=en" alt="guptapriyanshu7" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptapriyanshu7&label=Profile%20views&color=0e75b6&style=flat" alt="guptapriyanshu7" /> </p>
