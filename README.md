@@ -60,9 +60,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptapriyanshu7&show_icons=true&locale=en&layout=compact"                        alt="guptapriyanshu7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptapriyanshu7&show_icons=true&locale=en&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="guptapriyanshu7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptapriyanshu7&show_icons=true&locale=en" alt="guptapriyanshu7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guptapriyanshu7&show_icons=true&locale=en&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="guptapriyanshu7" />
 </p>
